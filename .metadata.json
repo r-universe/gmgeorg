@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ForeCA",
+    "oncran": true
+  },
+  {
+    "package": "LambertW",
+    "oncran": true
+  }
+]

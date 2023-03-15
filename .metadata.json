@@ -1,10 +1,10 @@
 [
   {
-    "package": "ForeCA",
+    "package": "LambertW",
     "oncran": true
   },
   {
-    "package": "LambertW",
+    "package": "ForeCA",
     "oncran": true
   }
 ]

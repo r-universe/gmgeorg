@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ForeCA"]
 	path = ForeCA
 	url = https://github.com/gmgeorg/foreca
-	shallow = true
-	registered = true
 [submodule "LambertW"]
 	path = LambertW
 	url = https://github.com/gmgeorg/lambertw
-	shallow = true
-	registered = true
